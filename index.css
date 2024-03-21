@@ -1,0 +1,112 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 10px 10px  2rem;
+    
+}
+h1{
+    color: red;
+    font-size: 20px;
+   
+}
+h6{
+    color: blue;
+    font-size: 12px;
+
+
+}
+h3{
+    color: green;
+    font-size: 15px;
+   
+}
+.titre3{
+    color: orange;
+    font-size: 17px;
+}
+.t{
+    color: yellow;
+    font-size: 1rem;
+}
+.span1{
+    color: crimson;
+    font-size: 16px;
+}
+.span2{
+    color: cadetblue;
+    font-size: 12px;
+}
+    
+@media screen and (max-width: 400px){
+    .titre1{
+        font-size: 10px;
+    }
+    
+}
+@media screen and (min-width: 400px) and (max-width: 1000px){
+    .titre1{
+        font-size: 25px;
+    }
+    
+}
+@media screen and (max-width: 400px){
+    .titre2{
+        font-size: 12px;
+    }
+    
+}
+@media screen and (min-width: 400px) and (max-width: 1000px){
+    .titre2{
+        font-size: 22px;
+    }
+    
+}
+@media screen and (max-width: 400px){
+    .titre3{
+        font-size: 12px;
+    }
+    
+}
+@media screen and (min-width: 400px) and (max-width: 1000px){
+    .titre3{
+        font-size: 22px;
+    }
+    
+}
+@media screen and (max-width: 400px){
+    .titre4{
+        font-size: 12px;
+    }
+    
+}
+@media screen and (min-width: 400px) and (max-width: 1000px){
+    .titre4{
+        font-size: 22px;
+    }
+    
+}
+@media screen and (max-width: 400px){
+    .titre5{
+        font-size: 12px;
+    }
+    
+}
+@media screen and (min-width: 400px) and (max-width: 1000px){
+    .titre5{
+        font-size: 22px;
+    }
+    
+}
+@media screen and (max-width: 400px){
+    .titre6{
+        font-size: 12px;
+    }
+    
+}
+@media screen and (min-width: 400px) and (max-width: 1000px){
+    .titre6{
+        font-size: 22px;
+    }
+    
+}
